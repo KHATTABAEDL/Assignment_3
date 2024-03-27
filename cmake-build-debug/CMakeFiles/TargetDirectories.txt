@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/firstpro/cmake-build-debug/CMakeFiles/firstpro.dir
+C:/Users/dell/CLionProjects/firstpro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/firstpro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
