@@ -3,7 +3,7 @@
 // Author: Gamal Megahed Sayed Mohamed (20231039) (eng.gamalmegahed@gmail.com), Section 12 , Did Filter_1 , Filter_4 , Filter_7.
 //         Mostafa Ehab Mostafa Akl (20231167) (mostafaehabakl@gmail.com) , Section 12 , Did Filter_2 , Filter_5 , Filter_8.
 //         Walid Adel Mordy Rohyem (20231200) (khattabadel112005@gmail.com), Section 11 , Did Filter_3 . Filter_6.
-//=================================================================================================================================
+//===================================================================================================================================
 #include <bits/stdc++.h>
 #include "Image_Class.h"
 using namespace std;
